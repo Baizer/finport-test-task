@@ -5,5 +5,5 @@ body {
 }
 
 button {
-  @apply bg-sky-600 px-6 py-1 rounded-xl text-white hover:bg-sky-700 cursor-pointer;
+  @apply cursor-pointer;
 }

@@ -48,7 +48,6 @@ export const filters: IFilter[] = [
         type: IFilterType.TEXT,
         operator: IFilterOperator.ILIKE,
         visible: true
-        
     },
     {
         id: "birthday",
